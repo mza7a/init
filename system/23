@@ -1,0 +1,2 @@
+GS : i will boot up my machine then if i have a bootloader i'll go through it by chosing my os. i will enter my account name and my pass.
+SSH : i will check the status of ssh service in the machine then i will get the ip address of the machine and connect to the machine by "ssh username@host -p port" (port if needed).

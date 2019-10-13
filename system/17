@@ -1,0 +1,2 @@
+#ssh -i ... if rsa key is needed or available
+ssh username@host -p port
